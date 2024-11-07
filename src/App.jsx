@@ -1,5 +1,5 @@
-import Courses from "./courses/courses";
 import Home from "./home/Home";
+import Courses from "./courses/Courses"; // adjust according to the actual file structure
 import Signup from "./components/Signup";
 import { Route, Routes } from "react-router-dom";
 
